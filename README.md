@@ -43,7 +43,7 @@ These themes reflect recurring enterprise AI challenges addressed across the NIS
 - [From AI Pilot to Enterprise Readiness](https://github.com/rcwah2/ai-implementation-reference-model) — Phased implementation reference model with 6 phases, decision gates, and framework alignment. The hub that ties all governance artifacts together.
 
 ### AI Governance Tools
-- [AI Vendor Due Diligence Template](https://github.com/rcwah2/ai-vendor-due-diligence-template) — Three-part governance pack: due diligence questionnaire, SOW/operational requirements, and contract clause checklist. Covers NIST AI RMF, ISO 42001, NIST SP 800-61/86, ISO 27037/27042/27043, and agentic AI controls (NIST AI 100-4/100-5, OWASP Top 10 for Agentic Applications).
+- [AI Vendor Due Diligence Template](https://github.com/rcwah2/ai-vendor-due-diligence-template) — Three-part governance pack: due diligence questionnaire, SOW/operational requirements, and contract clause checklist. Covers NIST AI RMF, ISO 42001, NIST SP 800-61/86, ISO 27037/27042/27043, and agentic AI controls (CSA Agentic AI Governance Profile, OWASP Top 10 for Agentic Applications).
 - [AI System Inventory Template](https://github.com/rcwah2/ai-system-inventory-template) — YAML/JSON schema for documenting AI systems. Includes agentic AI fields: autonomy classification, tool/API access, identity model, kill switch, behavioral monitoring.
 - [AI Governance Crosswalk](https://github.com/rcwah2/ai-governance-crosswalk) — Practical implementation guide for organizations adopting both NIST AI RMF and ISO 42001. Shared artifacts, evidence mapping, and review cadence alignment.
 
